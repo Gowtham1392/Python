@@ -1,2 +1,2 @@
 # Python
-Get input from user and display it.
+Just now started learning Python. Doing some basic stuff. Any help or suggestion or advice most welcome!
